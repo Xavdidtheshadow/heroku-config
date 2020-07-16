@@ -23,7 +23,7 @@
   "dependencies": {
     "fs-extra": "8.1.0",
     "heroku-cli-util": "6.2.12",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "chai": "^3.5.0",
